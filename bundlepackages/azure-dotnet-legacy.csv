@@ -212,4 +212,3 @@ windowsazuremobileservicesbackendtables,[tfm=netstandard2.0]WindowsAzure.MobileS
 windowsazuremobileservicessqlitestore,[tfm=netstandard2.0]WindowsAzure.MobileServices.SQLiteStore,1.0.4
 windowsazureservicebus,[tfm=netstandard2.0]WindowsAzure.ServiceBus,6.2.2
 windowsazurestorage,[tfm=netstandard2.0]WindowsAzure.Storage,9.3.3
-windowsazurestorage-preview,[tfm=netstandard2.0]WindowsAzure.Storage-Preview,3.2.0-preview
