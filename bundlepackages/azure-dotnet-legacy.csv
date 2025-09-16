@@ -1,5 +1,4 @@
 azureanalyticspurviewcatalog,[isPrerelease=true;tfm=netstandard2.0]Azure.Analytics.Purview.Catalog,1.0.0-beta.4
-azureanalyticspurviewshare,[isPrerelease=true;tfm=netstandard2.0]Azure.Analytics.Purview.Share,1.0.3-beta.20
 azurecommunicationcallingserver,[isPrerelease=true;tfm=netstandard2.0]Azure.Communication.CallingServer,1.0.0-beta.3
 azurecommunicationnetworktraversal,[tfm=netstandard2.0]Azure.Communication.NetworkTraversal,1.0.0
 azuredevelopermicrosoftplaywrighttestingnunit,[tfm=netstandard2.0]Azure.Developer.MicrosoftPlaywrightTesting.NUnit,1.0.0-beta.4
